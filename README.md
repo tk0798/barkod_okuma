@@ -1,0 +1,1 @@
+# barkod_okuma
